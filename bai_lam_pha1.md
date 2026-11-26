@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:** Đào Tuấn Minh
 - **Lớp:** HN-KS26-CNTT3
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/tminhk32-bit/HN-KS26-CNTT3_PromtAI_H02
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
